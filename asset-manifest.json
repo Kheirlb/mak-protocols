@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/mak-protocols/static/css/main.073c9b0a.css",
-    "main.js": "/mak-protocols/static/js/main.d7c58c37.js",
-    "static/js/787.4051173f.chunk.js": "/mak-protocols/static/js/787.4051173f.chunk.js",
-    "static/media/logo.svg": "/mak-protocols/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/mak-protocols/static/css/main.445031c6.css",
+    "main.js": "/mak-protocols/static/js/main.f5e1ebcc.js",
+    "static/js/787.b0a7f44b.chunk.js": "/mak-protocols/static/js/787.b0a7f44b.chunk.js",
     "index.html": "/mak-protocols/index.html",
-    "main.073c9b0a.css.map": "/mak-protocols/static/css/main.073c9b0a.css.map",
-    "main.d7c58c37.js.map": "/mak-protocols/static/js/main.d7c58c37.js.map",
-    "787.4051173f.chunk.js.map": "/mak-protocols/static/js/787.4051173f.chunk.js.map"
+    "main.445031c6.css.map": "/mak-protocols/static/css/main.445031c6.css.map",
+    "main.f5e1ebcc.js.map": "/mak-protocols/static/js/main.f5e1ebcc.js.map",
+    "787.b0a7f44b.chunk.js.map": "/mak-protocols/static/js/787.b0a7f44b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d7c58c37.js"
+    "static/css/main.445031c6.css",
+    "static/js/main.f5e1ebcc.js"
   ]
 }
