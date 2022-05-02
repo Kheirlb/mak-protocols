@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mak-protocols/static/css/main.445031c6.css",
-    "main.js": "/mak-protocols/static/js/main.4d9591eb.js",
-    "static/js/787.b0a7f44b.chunk.js": "/mak-protocols/static/js/787.b0a7f44b.chunk.js",
-    "index.html": "/mak-protocols/index.html",
-    "main.445031c6.css.map": "/mak-protocols/static/css/main.445031c6.css.map",
-    "main.4d9591eb.js.map": "/mak-protocols/static/js/main.4d9591eb.js.map",
-    "787.b0a7f44b.chunk.js.map": "/mak-protocols/static/js/787.b0a7f44b.chunk.js.map"
+    "main.css": "./static/css/main.445031c6.css",
+    "main.js": "./static/js/main.b3d3cc96.js",
+    "static/js/787.b0a7f44b.chunk.js": "./static/js/787.b0a7f44b.chunk.js",
+    "index.html": "./index.html",
+    "main.445031c6.css.map": "./static/css/main.445031c6.css.map",
+    "main.b3d3cc96.js.map": "./static/js/main.b3d3cc96.js.map",
+    "787.b0a7f44b.chunk.js.map": "./static/js/787.b0a7f44b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.445031c6.css",
-    "static/js/main.4d9591eb.js"
+    "static/js/main.b3d3cc96.js"
   ]
 }
