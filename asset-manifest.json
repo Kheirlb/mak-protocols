@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mak-protocols/static/css/main.f3a12843.css",
-    "main.js": "/mak-protocols/static/js/main.e8353659.js",
+    "main.js": "/mak-protocols/static/js/main.96d2d36a.js",
     "static/js/787.b0a7f44b.chunk.js": "/mak-protocols/static/js/787.b0a7f44b.chunk.js",
     "index.html": "/mak-protocols/index.html",
     "main.f3a12843.css.map": "/mak-protocols/static/css/main.f3a12843.css.map",
-    "main.e8353659.js.map": "/mak-protocols/static/js/main.e8353659.js.map",
+    "main.96d2d36a.js.map": "/mak-protocols/static/js/main.96d2d36a.js.map",
     "787.b0a7f44b.chunk.js.map": "/mak-protocols/static/js/787.b0a7f44b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3a12843.css",
-    "static/js/main.e8353659.js"
+    "static/js/main.96d2d36a.js"
   ]
 }
